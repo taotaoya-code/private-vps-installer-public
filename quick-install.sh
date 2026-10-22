@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -Eeuo pipefail
 
-RELEASE_REPO="${PVMA_RELEASE_REPO:-caonima715/123321}"
+RELEASE_REPO="${PVMA_RELEASE_REPO:-taotaoya-code/123321}"
 RELEASE_TAG="${PVMA_RELEASE_TAG:-}"
 ASSET_NAME="${PVMA_ASSET_NAME:-private-vps-installer}"
 INSTALL_DIR="${PVMA_INSTALL_DIR:-/opt/private-vps-installer}"
