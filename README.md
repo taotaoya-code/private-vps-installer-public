@@ -5,4 +5,4 @@
 ## 一条命令安装
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/caonima715/123321/main/quick-install.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/taotaoya-code/123321/main/quick-install.sh)
